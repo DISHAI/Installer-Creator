@@ -1,6 +1,6 @@
 ## 🇷🇺 Русская версия  
 
-# 📦 Installer Creator 1.0
+# 📦 Installer Creator
 
 Простой инструмент для создания установщиков Windows на Python.  
 
@@ -48,7 +48,7 @@ python creator.py
 
 ## 🇬🇧 English Version  
 
-# 📦 Installer Creator 1.0
+# 📦 Installer Creator
 
 A simple tool for creating Windows installers using Python.  
 
